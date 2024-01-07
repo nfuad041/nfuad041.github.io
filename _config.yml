@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nafis Fuad"
-  avatar           : "prof-photo.jpg"
+  avatar           : "images/prof-photo.jpg"
   bio              : "Nuclear & Neutrino Physics"
   location         : "Bloomington, Indiana"
   employer         : "Indiana University"
