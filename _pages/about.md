@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "NafisFuadHome"
+title: 
 permalink: /
-author_profile: true
+author_profile: False
 ---
 # Education
 #### PhD Candidate
