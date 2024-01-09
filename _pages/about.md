@@ -11,7 +11,8 @@ redirect_from:
 I am Nafis Fuad, a PhD candidate in Nuclear and Neutrino Physics at Indiana University Bloomington. Before coming here, I earned M.Sc. in Physics from University of Minnesota Duluth and B.Sc. in Naval Architecture from Bangladesh University of Engineering and Technology. My research interests are -
 * Neutrino experiments
 * Nuclear experiments
-* Application of Machine Learning methods in Physics
+* Semiconductor based particle detectors
+* Applications of Machine Learning methods in Physics
   
 #### PhD Candidate
 Indiana University Bloomington [2020-present]\
