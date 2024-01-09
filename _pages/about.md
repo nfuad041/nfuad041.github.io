@@ -1,9 +1,8 @@
 ---
-layout: archive
-title: 
-permalink: /
-author_profile: False
+layout: default
+title: "Home"
 ---
+
 # Education
 #### PhD Candidate
 Indiana University Bloomington [2020-present]\
