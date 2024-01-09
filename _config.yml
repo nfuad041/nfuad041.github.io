@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Nafis Fuad"
   avatar           : "prof-photo.jpg"
-  bio              : "Nuclear & Neutrino Physics\nML"
+  bio              : "Graduate student in Nuclear & Neutrino Physics"
   location         : "Bloomington, Indiana"
   employer         : "Indiana University"
   pubmed           : 
   googlescholar    : 
   email            : "nfuad@iu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/nfuad041"
+  github           : "nfuad041"
   google_plus      :
   keybase          :
   instagram        :
